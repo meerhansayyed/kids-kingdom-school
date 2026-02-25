@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://yourusername.github.io/kids-kingdom/</loc>
-   </url>
+
+<url>
+<loc>https://meerhansayyed.github.io/kids-kingdom-school/</loc>
+</url>
+
+<url>
+<loc>https://meerhansayyed.github.io/kids-kingdom-school/about.html</loc>
+</url>
+
+<url>
+<loc>https://meerhansayyed.github.io/kids-kingdom-school/programs.html</loc>
+</url>
+
+<url>
+<loc>https://meerhansayyed.github.io/kids-kingdom-school/contact.html</loc>
+</url>
+
 </urlset>
