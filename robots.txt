@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/kids-kingdom/sitemap.xml
+Sitemap: https://meerhansayyed.github.io/kids-kingdom-school/sitemap.xml
